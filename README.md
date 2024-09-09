@@ -1,9 +1,4 @@
-Youtube Link To My Website:
-https://www.youtube.com/watch?v=dRiv4XJT9Iw
-
-
-
-
+![GW0crg3XoAA_Y4M](https://github.com/user-attachments/assets/8e8e7d22-4a7d-40d5-b9cd-6b29b993fef8)
 
 Smark Chatbot: A Gemini-Powered Conversational Experience on WordPress
 Smark Chatbot is a cutting-edge conversational AI solution seamlessly integrated into WordPress. Leveraging the power of Gemini, Smark offers businesses a sophisticated chatbot capable of engaging in dynamic, human-like interactions with website visitors.
