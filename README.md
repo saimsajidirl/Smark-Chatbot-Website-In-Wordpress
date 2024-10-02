@@ -1,4 +1,5 @@
-![GW0crg3XoAA_Y4M](https://github.com/user-attachments/assets/8e8e7d22-4a7d-40d5-b9cd-6b29b993fef8)
+![image](https://github.com/user-attachments/assets/9a97f509-c534-4eb2-8bef-a31cdfabf7f4)
+
 
 Smark Chatbot: A Gemini-Powered Conversational Experience on WordPress
 Smark Chatbot is a cutting-edge conversational AI solution seamlessly integrated into WordPress. Leveraging the power of Gemini, Smark offers businesses a sophisticated chatbot capable of engaging in dynamic, human-like interactions with website visitors.
